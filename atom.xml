@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://samsalisbury.github.io//github/atom.xml" rel="self"/>
+  <link href="http://samsalisbury.github.io//github/"/>
+  <updated>2013-09-08T03:21:30+01:00</updated>
+  <id>http://samsalisbury.github.io//github/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Blog]]></title>
+    <link href="http://samsalisbury.github.io//github/blog/2013/09/08/hello-blog/"/>
+    <updated>2013-09-08T00:00:00+01:00</updated>
+    <id>http://samsalisbury.github.io//github/blog/2013/09/08/hello-blog</id>
+    <content type="html"><![CDATA[<h1>Sam&rsquo;s Blog <em>| Code, lies, and blargles.</em></h1>
+
+<h2>Hello, blog.</h2>
+
+<p>Over the past year or so, I&rsquo;ve made copious notes and observations on <a href="http://en.wikipedia.org/wiki/Computer_programming">coding</a>, <a href="http://en.wikipedia.org/wiki/Software_deployment">software delivery</a>, <a href="http://en.wikipedia.org/wiki/Agile_software_development">agile practices</a> and other generally programming-related things. Most of these are locked up in private notes, in emails, or just rattling around my brain, and serving no useful purpose to anyone. So, I think it&rsquo;s about time I do what I&rsquo;ve been thinking about doing for the last few years, and start adding my own thoughts to the hive mind, lest <a href="http://www.globalresearch.ca/the-next-nsa-spying-shoe-to-drop-pre-crime-artificial-intelligence/5339360">SkyNet</a> sees me only through my &lsquo;private&rsquo; musings.</p>
+
+<p>Now, without any ado, nor adon&rsquo;t, some words…</p>
+
+<p><em>Sunday, 8th September, 2013</em></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://samsalisbury.github.io//github/sitemap.xml 
